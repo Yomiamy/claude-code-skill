@@ -1,0 +1,12 @@
+# node, OS, editor, test junk
+node_modules/
+.DS_Store
+*.env
+coverage/
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
+npm-debug.log*
+
