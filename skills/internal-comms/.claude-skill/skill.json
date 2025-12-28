@@ -1,0 +1,10 @@
+{
+  "name": "internal-comms",
+  "description": "公司內部溝通文件撰寫輔助技能",
+  "entry": "SKILL.md",
+  "examplesDir": "examples/",
+  "version": "1.0.0",
+  "author": "RY",
+  "license": "詳見 LICENSE.txt"
+}
+
