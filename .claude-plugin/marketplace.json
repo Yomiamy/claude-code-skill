@@ -1,0 +1,22 @@
+{
+  "name": "ry-skills",
+  "owner": {
+    "name": "Yianday",
+    "email": "yianday0330@gmail.com"
+  },
+  "metadata": {
+    "description": "Skills esample",
+    "version": "1.0.0"
+  },
+  "plugins": [
+      {
+        "name": "example-skills",
+        "description": "Skills使用範本",
+        "source": "./",
+        "strict": false,
+        "skills": [
+          "./skills/internal-comms"
+        ]
+      }
+  ]
+}
